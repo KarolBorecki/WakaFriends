@@ -1,1 +1,43 @@
 # WakaFriends
+
+IOS/Android mobile app. Still working on this project. I will ad a better description when I come up with a full concept.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+
+### Prerequisites
+
+1. [Flutter](https://flutter.dev/) - [How to install](https://flutter.dev/docs/get-started/install)
+#### This one you should add to yor dependencies:
+2. Firebase core
+3. Cloud Firestore
+4. Firebase Auth
+
+* [Setup your editor](https://flutter.dev/docs/get-started/editor)
+* [How to get started wit Firebase](https://firebase.google.com/docs/android/setup)
+
+#### My dependecies looks like this:
+<img src="" width=200px>
+
+### Installing and Running
+
+1. Open your pubspec.yaml
+2. Fill your dependencies
+3. Get your dependencies
+4. Run project
+
+[Test drive doc's instructions](https://flutter.dev/docs/get-started/test-drive)
+
+### Game screenshots
+<img src="" width=200px>
+
+## Built With
+
+* [Flutter](https://unity3d.com/) - A portable UI toolkit for natively-compiled applications.
+* [Firebase](https://firebase.google.com/) - A comprehensive mobile development platform
+* //There will be much more. For now I've used only this ^^^
+
+## Authors
+
+* **Karol Borecki** - [Portfolio](https://borecki.000webhostapp.com/)
