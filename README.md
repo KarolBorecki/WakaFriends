@@ -41,3 +41,6 @@ These instructions will get you a copy of the project up and running on your loc
 ## Authors
 
 * **Karol Borecki** - [Portfolio](https://borecki.000webhostapp.com/)
+
+### Also check:
+* **Ba Phi** - Author of this amazing photo that I've used as a background [link to photo](https://www.pexels.com/photo/woman-between-men-facing-mountains-1255062/)
