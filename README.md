@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 * [How to get started wit Firebase](https://firebase.google.com/docs/android/setup)
 
 #### My dependecies looks like this:
-<img src="" width=200px>
+<img src="https://github.com/KarolBorecki/WakaFriends/blob/master/waka_friends/img/Screen6.png" width=200px>
 
 ### Installing and Running
 
@@ -29,8 +29,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 [Test drive doc's instructions](https://flutter.dev/docs/get-started/test-drive)
 
-### Game screenshots
-<img src="" width=200px>
+### App screenshots
+<img src="https://github.com/KarolBorecki/WakaFriends/blob/master/waka_friends/img/Screen3.png" width=200px> <img src="https://github.com/KarolBorecki/WakaFriends/blob/master/waka_friends/img/Screen4.png" width=200px> <img src="https://github.com/KarolBorecki/WakaFriends/blob/master/waka_friends/img/Screen2.png" width=200px> <img src="https://github.com/KarolBorecki/WakaFriends/blob/master/waka_friends/img/Screen5.png" width=200px>
 
 ## Built With
 
